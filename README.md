@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hello! My name is Ivan
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=johann-gorban)](https://github.com/johann-gorban/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=johann-gorban&show_icons=true)](https://github.com/johann-gorban/github-readme-stats)
